@@ -1,10 +1,10 @@
-package com.example.restTesting;
+package com.example.noDb.TestingApiWithoutDB;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class RestTestingApplicationTests {
+class TestingApiWithoutDbApplicationTests {
 
 	@Test
 	void contextLoads() {
